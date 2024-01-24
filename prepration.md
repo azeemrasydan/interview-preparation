@@ -13,6 +13,7 @@ Here's a few programming languages reference for beginner.
 
 ### Python
 
+### Tutorial
 Handbook on the link below,  it's enough to cover the Python basic materials from **Python Tutorial** to **File Handling.** . 
 https://www.w3schools.com/python/default.asp
 
@@ -20,6 +21,12 @@ You can cover the advanced of Python Modules, Matplotlib once you understood the
 
 Improve understanding with below video.
 https://www.youtube.com/watch?v=kqtD5dpn9C8&ab_channel=ProgrammingwithMosh
+
+### Python IDE
+Most commonly used IDE for Python is Visual Studio Code.
+#### Downloads
+- https://code.visualstudio.com/
+- After installation, you can use vscode as an editor for writing Python code.
 
 ## Database
 ### SQL
@@ -39,3 +46,28 @@ You can start going through simple tutorial of RESTful APIs
 
 - Video https://www.youtube.com/watch?v=GN6ICac3OXY&t=983s&ab_channel=Amigoscode
 - Doc https://fastapi.tiangolo.com/
+
+
+## Database Setup
+For educational purpose, we can start with SQLite & Dbeaver to setup our database.
+
+### Downloads
+- Download Windows Installer https://dbeaver.io/download/
+- Install the dbeaver
+- Open the installed dbeaver, connect to database and select SQLite
+
+## Code Repository Setup
+Code repository is the hub for code written and usually accompanied with version control. Git is one example of code repository tool.
+
+### Git Setup
+- Download https://git-scm.com/download/win
+- Install the git
+- Now git is installed
+
+### Git usage
+- Code is written
+- Stage files that are only included for commit
+- Write commit remark to comment on development
+- Click on commit in vscode IDE
+- Push to github
+
