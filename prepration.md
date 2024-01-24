@@ -13,7 +13,7 @@ Here's a few programming languages reference for beginner.
 
 ### Python
 
-### Tutorial
+#### Tutorial
 Handbook on the link below,  it's enough to cover the Python basic materials from **Python Tutorial** to **File Handling.** . 
 https://www.w3schools.com/python/default.asp
 
@@ -22,7 +22,7 @@ You can cover the advanced of Python Modules, Matplotlib once you understood the
 Improve understanding with below video.
 https://www.youtube.com/watch?v=kqtD5dpn9C8&ab_channel=ProgrammingwithMosh
 
-### Python IDE
+#### Python IDE
 Most commonly used IDE for Python is Visual Studio Code.
 #### Downloads
 - https://code.visualstudio.com/
