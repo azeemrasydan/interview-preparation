@@ -28,6 +28,9 @@ Most commonly used IDE for Python is Visual Studio Code.
 - https://code.visualstudio.com/
 - After installation, you can use vscode as an editor for writing Python code.
 
+### Exercise
+https://www.codecademy.com/enrolled/courses/learn-python-3
+
 ## Database
 ### SQL
 
@@ -36,6 +39,9 @@ https://www.w3schools.com/sql/default.asp
 
 Watch below video for improving understanding.
 https://www.youtube.com/watch?v=h0nxCDiD-zg&ab_channel=KevinStratvert
+
+Advanced Practice
+https://www.codecademy.com/enrolled/courses/learn-sql
 
 
 ## REST API Development
